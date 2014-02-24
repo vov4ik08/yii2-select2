@@ -1,0 +1,23 @@
+{
+    "name": "apollo/yii2-select2",
+    "description": "Select2",
+    "version": "0.0.1",
+    "homepage": "http://google.com",
+    "keywords": ["select2"],
+    "license": "MIT",
+
+
+
+
+    "require": {
+        "php": ">=5.4",
+        "yiisoft/yii2": "*",
+        "ivaynberg/select2": "dev-master"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "Apollo\\": ""
+        }
+    }
+}
