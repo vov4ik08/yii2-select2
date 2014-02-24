@@ -1,9 +1,9 @@
-This widget for you select2 v3.4.5 (http://ivaynberg.github.io/select2/)
- Example:
- <?=
-
-
-    $form->field($model, 'users_to')->widget(\Apollo\Select2Field::className(), [
+#This widget for you select2 v3.4.5 (http://ivaynberg.github.io/select2/)
+# Example:
+ #<?=
+#
+#
+#    $form->field($model, 'users_to')->widget(\Apollo\Select2Field::className(), [
 
         'clientOptions' => [
             'allowClear' => true,
