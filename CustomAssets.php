@@ -15,7 +15,7 @@ class CustomAssets extends AssetBundle {
     /**
      * @inheritdoc
      */
-    public $sourcePath = '@vendor/yii2-select2/assets';
+    public $sourcePath = '@vendor/apollo/yii2-select2/assets';
 
 
     public $css = [
