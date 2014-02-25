@@ -8,7 +8,6 @@
 
 namespace Apollo;
 
-//    'Apollo\\' => array('/Applications/MAMP/htdocs/crm/backend/common/yii2-select2'),
 
 use yii\web\AssetBundle;
 
@@ -16,7 +15,7 @@ class CustomAssets extends AssetBundle {
     /**
      * @inheritdoc
      */
-    public $sourcePath = '@backend/common/yii2-select2/assets';
+    public $sourcePath = '@vendor/yii2-select2/assets';
 
 
     public $css = [
